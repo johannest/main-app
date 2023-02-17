@@ -6,7 +6,10 @@ Each sub view has a placeholder component in main-app: [Component1.tsx](frontend
 
 There is an example how to share data between the `main-app` and `component1-app` using React Context:  [PersonContext.tsx](frontend%2FPersonContext.tsx) Note! This is just example and usually not the most optimal way to share the state.
 
-This example project is shared in its own GitHub repository. See also the example project using multi-module Maven approach and single GitHub repository:
+* The component1-app module: https://github.com/johannest/component1-app
+* The component2-app module: https://github.com/johannest/component2-app
+
+This example project is shared in its own GitHub repository. See also the example project using a multi-module Maven approach and single GitHub repository: https://github.com/johannest/hilla-react-multi-module
 
 ## Running the application
 
